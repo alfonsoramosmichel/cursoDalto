@@ -8,6 +8,3 @@ def suma(*num):
     res = sum(num)
     print(f"El resultado es {res}")
     return res
-
-suma(5,5,3,2,3)
-
